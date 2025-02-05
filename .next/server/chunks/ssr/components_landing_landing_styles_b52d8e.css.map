@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack://[project]/components/landing/landing.styles.css"],"sourcesContent":["/* LOGIN NAVBAR */\r\n.login-navbar-container {\r\n   display: flex;\r\n   width: 100%;\r\n   height: auto;\r\n   justify-content: space-between;\r\n   margin-bottom: 96px;\r\n}\r\n\r\n.login-navbar-container nav {\r\n   display: flex;\r\n   width: 100%;\r\n   height: auto;\r\n   justify-content: space-between;\r\n}\r\n\r\n.login-navbar-container nav div {\r\n   width: 100%;\r\n}\r\n\r\n.login-navbar-container nav div ul .login-navbar-logo {\r\n   width: 10%;\r\n   display: flex;\r\n   justify-content: flex-start;\r\n}\r\n\r\n.login-navbar-container nav div ul .login-navbar-items {\r\n   width: 90%;\r\n   display: flex;\r\n   justify-content: flex-end;\r\n}\r\n\r\n.login-navbar-container nav div ul .login-navbar-items li a {\r\n   color: #0F172A;\r\n   /* text-sm/leading-6/normal */\r\n   font-family: var(--font-poppins);\r\n   font-size: 14px;\r\n   font-style: normal;\r\n   font-weight: 400;\r\n   line-height: 24px;\r\n   /* 171.429% */\r\n   letter-spacing: -0.7px;\r\n}"],"names":[],"mappings":"AACA;;;;;;;;AAQA;;;;;;;AAOA;;;;AAIA;;;;;;AAMA;;;;;;AAMA"}},
+    {"offset": {"line": 41, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}

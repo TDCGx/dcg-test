@@ -1,0 +1,43 @@
+/* [project]/components/landing/landing.styles.css [app-client] (css) */
+.login-navbar-container {
+  display: flex;
+  width: 100%;
+  height: auto;
+  justify-content: space-between;
+  margin-bottom: 96px;
+}
+
+.login-navbar-container nav {
+  display: flex;
+  width: 100%;
+  height: auto;
+  justify-content: space-between;
+}
+
+.login-navbar-container nav div {
+  width: 100%;
+}
+
+.login-navbar-container nav div ul .login-navbar-logo {
+  width: 10%;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.login-navbar-container nav div ul .login-navbar-items {
+  width: 90%;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.login-navbar-container nav div ul .login-navbar-items li a {
+  color: #0f172a;
+  font-family: var(--font-poppins);
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: -.7px;
+}
+
+/*# sourceMappingURL=components_landing_landing_styles_b52d8e.css.map*/
